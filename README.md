@@ -1,4 +1,4 @@
-# Agent4Target — Evidence Aggregation POC
+# Agent4Target — Evidence Aggregation
 
 A proof-of-concept pipeline for drug target prioritisation using multiple biomedical evidence sources. Built iteratively as part of a GSoC 2026 proposal for the [Agent4Target project](https://ucsc-ospo.github.io/project/osre26/uci/agent4target/) (UC OSPO / UC Irvine).
 
